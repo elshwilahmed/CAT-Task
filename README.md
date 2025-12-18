@@ -8,9 +8,9 @@ This repository contains my solutions for the technical assessment tasks, organi
 
 | Task | Description | 
 | :--- | :--- | :--- |
-| **1. To-Do List Lite** | A C++ Console Application to manage daily tasks. 
-| **2. Problem Solving** | Python function to find the shortest string in a list. 
-| **3. SQL Challenge** | Query to retrieve students with grades between 90-100. 
+| **1. To-Do List Lite** | A C++ Console Application to manage daily tasks. |
+| **2. Problem Solving** | Python function to find the shortest string in a list.| 
+| **3. SQL Challenge** | Query to retrieve students with grades between 90-100. |
 ---
 
 ## 🛠️ Tech Stack & Tools Used
