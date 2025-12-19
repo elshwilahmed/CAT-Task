@@ -9,7 +9,7 @@ This repository contains my solutions for the technical assessment tasks, organi
 | Task | Description |
 | :--- | :--- |
 | **1. To-Do List Lite** | A C++ Console Application to manage daily tasks. |
-| **2. Problem Solving** | Python function to find the shortest string in a list. |
+| **2. Problem Solving** | C++ function to find the shortest string in a list. |
 | **3. SQL Challenge** | Query to retrieve students with grades between 90-100. |
 ---
 
@@ -58,7 +58,7 @@ Operations:
 ```
 
 ### 2️⃣ Task 2: Problem Solving
-*Important Note: Please note that the file named (solution.py) contains c++ code, Isaved it with the wrong extension before the deadline.*
+*Important Note: Please note that the file named (solution.py) contains c++ code, I saved it with the wrong extension before the deadline.*
 * **Challenge:** Find the shortest string in a list.
 * **Input Example:** `["code", "backend", "ai", "circle"]`
 * **Output:** `"ai"`
